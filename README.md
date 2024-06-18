@@ -23,19 +23,19 @@
 ---
 
 ### Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=willamyizidro&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=willamyizidro&layout=compact&theme=radical)
 
 ---
 
 ### Projetos Recentes
-- [Nome do Projeto 1](link do projeto)
-- [Nome do Projeto 2](link do projeto)
-- [Nome do Projeto 3](link do projeto)
+- [Projeto 1](#)
+- [Projeto 2](#)
+- [Projeto 3](#)
 
 ---
 
 ### Blog e Artigos
-- [Título do Artigo 1](link do artigo)
-- [Título do Artigo 2](link do artigo)
-- [Título do Artigo 3](link do artigo)
+- [Artigo 1](#)
+- [Artigo 2](#)
+- [Artigo 3](#)
